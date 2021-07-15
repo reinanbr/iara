@@ -1,0 +1,22 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+mechanicalsoup = "*"
+requests = "*"
+pillow = "*"
+tqdm = "*"
+scipy = "*"
+numpy = "*"
+bs4 = "*"
+pandas = "*"
+osmnx = "*"
+geopy = "*"
+matplotlib = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"
