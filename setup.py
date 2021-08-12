@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
     readme = fh.read()
 
 setup(name='iara',
-    version='1.0.201',
+    version='1.0.202',
     url='https://github.com/perseu912/iara',
     license='MIT License',
     author='Reinan Br',
