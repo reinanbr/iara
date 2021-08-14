@@ -34,6 +34,9 @@
 <p align='center'> <b>Library for development on my works on the python projects</b></p>
 
 ##  Examples
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/3c47f6cb94a0405b93f2050432bb252b)](https://app.codacy.com/gh/perseu912/iara?utm_source=github.com&utm_medium=referral&utm_content=perseu912/iara&utm_campaign=Badge_Grade_Settings)
+
 <hr/>
 
 ### Tools
